@@ -302,8 +302,8 @@ typedef enum /* GLCD Status */
 typedef enum /* GLCD Colors */
 {
 	
-	_GLCD_WHITE = 0xFF,
-	_GLCD_BLACK = 0x00
+	_GLCD_WHITE = 0x00,
+	_GLCD_BLACK = 0xFF
 	
 }COLOR_TypeDef;
 
